@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\BusServices\BusServices\bin\Debug\BusServices.dll.config
+C:\Users\Admin\source\repos\BusServices\BusServices\bin\Debug\BusServices.dll
+C:\Users\Admin\source\repos\BusServices\BusServices\bin\Debug\BusServices.pdb
+C:\Users\Admin\source\repos\BusServices\BusServices\obj\Debug\BusServices.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BusServices\BusServices\obj\Debug\BusServices.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BusServices\BusServices\obj\Debug\BusServices.dll
+C:\Users\Admin\source\repos\BusServices\BusServices\obj\Debug\BusServices.pdb
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServices\bin\Debug\BusServices.dll.config
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServices\bin\Debug\BusServices.dll
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServices\bin\Debug\BusServices.pdb
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServices\obj\Debug\BusServices.csprojAssemblyReference.cache
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServices\obj\Debug\BusServices.csproj.CoreCompileInputs.cache
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServices\obj\Debug\BusServices.dll
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServices\obj\Debug\BusServices.pdb

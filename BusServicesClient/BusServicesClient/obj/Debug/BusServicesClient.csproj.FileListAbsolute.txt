@@ -1,0 +1,20 @@
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\bin\Debug\BusServicesClient.exe.config
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\bin\Debug\BusServicesClient.exe
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\bin\Debug\BusServicesClient.pdb
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.Form1.resources
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.Properties.Resources.resources
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.exe
+C:\Users\Admin\source\repos\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.pdb
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\bin\Debug\BusServicesClient.exe.config
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\bin\Debug\BusServicesClient.exe
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\bin\Debug\BusServicesClient.pdb
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.csprojAssemblyReference.cache
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.Form1.resources
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.Properties.Resources.resources
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.csproj.GenerateResource.cache
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.csproj.CoreCompileInputs.cache
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.exe
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServicesClient\BusServicesClient\obj\Debug\BusServicesClient.pdb

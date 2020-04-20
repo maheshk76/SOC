@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="PassengerService1" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost:8080/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost:8080/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost:8080/?xsd=xsd2" namespace="http://schemas.datacontract.org/2004/07/BusServices" />
+      <xsd:import schemaLocation="http://localhost:8080/?xsd=xsd3" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="IPassengerService1_GetData_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetData" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_GetData_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetDataResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_InsertPassengerDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:InsertPassengerDetails" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_InsertPassengerDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:InsertPassengerDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_GetAllPassengerDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllPassengerDetails" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_GetAllPassengerDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetAllPassengerDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_DeletePassengerDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePassengerDetails" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_DeletePassengerDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:DeletePassengerDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_UpdatePassengerDetails_InputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePassengerDetails" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_UpdatePassengerDetails_OutputMessage">
+    <wsdl:part name="parameters" element="tns:UpdatePassengerDetailsResponse" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_GetPassengerByName_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetPassengerByName" />
+  </wsdl:message>
+  <wsdl:message name="IPassengerService1_GetPassengerByName_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetPassengerByNameResponse" />
+  </wsdl:message>
+  <wsdl:portType name="IPassengerService1">
+    <wsdl:operation name="GetData">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPassengerService1/GetData" message="tns:IPassengerService1_GetData_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPassengerService1/GetDataResponse" message="tns:IPassengerService1_GetData_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="InsertPassengerDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPassengerService1/InsertPassengerDetails" message="tns:IPassengerService1_InsertPassengerDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPassengerService1/InsertPassengerDetailsResponse" message="tns:IPassengerService1_InsertPassengerDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPassengerDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPassengerService1/GetAllPassengerDetails" message="tns:IPassengerService1_GetAllPassengerDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPassengerService1/GetAllPassengerDetailsResponse" message="tns:IPassengerService1_GetAllPassengerDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="DeletePassengerDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPassengerService1/DeletePassengerDetails" message="tns:IPassengerService1_DeletePassengerDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPassengerService1/DeletePassengerDetailsResponse" message="tns:IPassengerService1_DeletePassengerDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePassengerDetails">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPassengerService1/UpdatePassengerDetails" message="tns:IPassengerService1_UpdatePassengerDetails_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPassengerService1/UpdatePassengerDetailsResponse" message="tns:IPassengerService1_UpdatePassengerDetails_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetPassengerByName">
+      <wsdl:input wsaw:Action="http://tempuri.org/IPassengerService1/GetPassengerByName" message="tns:IPassengerService1_GetPassengerByName_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/IPassengerService1/GetPassengerByNameResponse" message="tns:IPassengerService1_GetPassengerByName_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_IPassengerService1" type="tns:IPassengerService1">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="GetData">
+      <soap:operation soapAction="http://tempuri.org/IPassengerService1/GetData" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="InsertPassengerDetails">
+      <soap:operation soapAction="http://tempuri.org/IPassengerService1/InsertPassengerDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetAllPassengerDetails">
+      <soap:operation soapAction="http://tempuri.org/IPassengerService1/GetAllPassengerDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="DeletePassengerDetails">
+      <soap:operation soapAction="http://tempuri.org/IPassengerService1/DeletePassengerDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="UpdatePassengerDetails">
+      <soap:operation soapAction="http://tempuri.org/IPassengerService1/UpdatePassengerDetails" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetPassengerByName">
+      <soap:operation soapAction="http://tempuri.org/IPassengerService1/GetPassengerByName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="PassengerService1">
+    <wsdl:port name="BasicHttpBinding_IPassengerService1" binding="tns:BasicHttpBinding_IPassengerService1">
+      <soap:address location="http://localhost:8080/PassengerService1" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

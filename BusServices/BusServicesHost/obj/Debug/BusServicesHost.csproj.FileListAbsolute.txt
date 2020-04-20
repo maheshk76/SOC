@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\bin\Debug\BusServicesHost.exe.config
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\bin\Debug\BusServicesHost.exe
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\bin\Debug\BusServicesHost.pdb
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\bin\Debug\BusServices.dll
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\bin\Debug\BusServices.pdb
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\bin\Debug\BusServices.dll.config
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\obj\Debug\BusServicesHost.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\obj\Debug\BusServicesHost.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\obj\Debug\BusServicesHost.csproj.CopyComplete
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\obj\Debug\BusServicesHost.exe
+C:\Users\Admin\source\repos\BusServices\BusServicesHost\obj\Debug\BusServicesHost.pdb
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\obj\Debug\BusServicesHost.csprojAssemblyReference.cache
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\obj\Debug\BusServicesHost.csproj.CoreCompileInputs.cache
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\obj\Debug\BusServicesHost.exe
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\obj\Debug\BusServicesHost.pdb
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\bin\Debug\BusServicesHost.exe.config
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\bin\Debug\BusServicesHost.exe
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\bin\Debug\BusServicesHost.pdb
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\bin\Debug\BusServices.dll
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\bin\Debug\BusServices.pdb
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\bin\Debug\BusServices.dll.config
+D:\DOCS_SEM6\SOC\SOC PROJECT\BusServices\BusServicesHost\obj\Debug\BusServicesHost.csproj.CopyComplete
